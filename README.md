@@ -4,4 +4,4 @@
 
 ⚡ [Fast DDS](https://github.com/eProsima/Fast-DDS): the open source DDS implementation that enables developers to create real-time communication systems with a wide set of features, quality documentation and, of course, an unbeatable performance.
 
-🤖 [Micro XRCE-DDS](https://github.com/eProsima/Micro-XRCE-DDS): the open source middleware that provides access to micro-controllers and resource-constrained devices to the DDS world.
+🔐🤖 [Safe DDS]([https://github.com/eProsima/Micro-XRCE-DDS](https://www.eprosima.com/index.php/products-all/eprosima-safe-dds)): is a middleware implementation following the ISO 26262 certification standard and provides access to the DDS (Data Distribution Service) Global-Data-Space.
