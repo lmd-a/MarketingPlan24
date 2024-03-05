@@ -8,9 +8,6 @@
 
 🤖 [Micro XRCE-DDS](https://github.com/eProsima/Micro-XRCE-DDS): the open-source middleware that provides access to micro-controllers and resource-constrained devices to the DDS world.
 
-🔆 [Succes Cases](https://www.eprosima.com/index.php/resources-all/success-cases): 
+🔆 [Succes Cases](https://www.eprosima.com/index.php/resources-all/success-cases): With over 15 years of dedicated experience in middleware communications development and design, eProsima boasts extensive expertise across a spectrum of use cases. Countless companies have entrusted us with their projects, relying on our proficiency in standard-based middleware solutions.
 
 🌀 [Services](https://www.eprosima.com/index.php/services-all): At eProsima, we specialize in personalized, high-quality middleware solutions for real-time and distributed systems. With expertise in standard-based middleware, we tailor our services to meet your specific needs. 
-
-📞💻 [Support]: Need help with your system architecture? Want reliable support for you and your team? Contact us and get tailored support for your use case: info@eprosima.com
-
