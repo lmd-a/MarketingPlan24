@@ -8,6 +8,6 @@
 
 🤖 [Micro XRCE-DDS](https://github.com/eProsima/Micro-XRCE-DDS): DDS implementation for super tiny microcontrollers.
 
-🔆 Want to know our clients?: [Succes Cases](https://www.eprosima.com/index.php/resources-all/success-cases).
+🔆 Want to know our clients? [Succes Cases](https://www.eprosima.com/index.php/resources-all/success-cases)
 
-🌀 Want commercial support?: [Services](https://www.eprosima.com/index.php/services-all).
+🌀 Want commercial support? [Services](https://www.eprosima.com/index.php/services-all)
