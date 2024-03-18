@@ -1,13 +1,13 @@
 # [![eProsima](https://github.com/lmd-a/MarketingPlan24/blob/c8722404be3ea7b1970d0f0912dfa6f1f930cc3a/Repo%20banners.png)](https://eprosima.com/) 
 
-[eProsima](https://eprosima.com/) provides networking middleware solutions that are open-source and available to everyone to empower global communications. Our high-quality open-source DDS products have been chosen for robotics, automated technology, and IoT. eProsima Fast DDS has been adopted by ROS 2 - the main framework for robotics development - and eProsima Micro XRCE-DDS is the base of micro-ROS, the official ROS 2 extension for microcontrollers.
+[eProsima](https://eprosima.com/) 
 
-⚡ [Fast DDS](https://github.com/eProsima/Fast-DDS): the open-source DDS implementation that enables developers to create real-time communication systems with a wide set of features, quality documentation, and, of course, an unbeatable performance.
+⚡ [Fast DDS](https://github.com/eProsima/Fast-DDS): The most adopted DDS implementation worldwide.
 
-🔐 [Safe DDS](https://www.eprosima.com/index.php/products-all/eprosima-safe-dds): is a middleware implementation following the ISO 26262 certification standard and provides access to the DDS (Data Distribution Service) Global-Data-Space.
+🔐 [Safe DDS](https://www.eprosima.com/index.php/products-all/eprosima-safe-dds): Light weight DDS for embedded systems. Design for real-time and automotive (ISO 26262) applications.
 
-🤖 [Micro XRCE-DDS](https://github.com/eProsima/Micro-XRCE-DDS): the open-source middleware that provides access to micro-controllers and resource-constrained devices to the DDS world.
+🤖 [Micro XRCE-DDS](https://github.com/eProsima/Micro-XRCE-DDS): DDS implementation for super tiny microcontrollers.
 
-🔆 [Succes Cases](https://www.eprosima.com/index.php/resources-all/success-cases): With over 15 years of dedicated experience in middleware communications development and design, eProsima boasts extensive expertise across a spectrum of use cases. Countless companies have entrusted us with their projects, relying on our proficiency in standard-based middleware solutions.
+🔆 Want to know our clients?: [Succes Cases](https://www.eprosima.com/index.php/resources-all/success-cases):
 
-🌀 [Services](https://www.eprosima.com/index.php/services-all): At eProsima, we specialize in personalized, high-quality middleware solutions for real-time and distributed systems. With expertise in standard-based middleware, we tailor our services to meet your specific needs. 
+🌀 Want commercial support?: [Services](https://www.eprosima.com/index.php/services-all) 
